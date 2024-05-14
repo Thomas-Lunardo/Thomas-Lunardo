@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas Lunardo</h1>
 <h3 align="center">A passionate developer from Lyon - France</h3>
 
-- 🔭 I’m currently working on [Nom-Nom-Nom](https://nom-nom-nom.lyon-1.wilders.dev/)
+- 🔭 I’m currently working on [Vélorution](https://quartierslibres.org/)
 
 - 🌱 I’m currently learning **PHP on Symfony**
 
