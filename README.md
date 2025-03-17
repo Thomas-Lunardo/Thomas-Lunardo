@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Angular**
 
-- 👨‍💻 All of my projects are available at [https://portefolio-gold-six.vercel.app/](https://portefolio-gold-six.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://thomas-lunardo.vercel.app/](https://thomas-lunardo.vercel.app/)
 
 - 💬 Ask me about **PHP Symfony**
 
